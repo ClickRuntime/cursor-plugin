@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "clickruntime": {
+      "url": "https://clickruntime.com/api/mcp"
+    }
+  }
+}
